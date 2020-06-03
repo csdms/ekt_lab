@@ -11,9 +11,8 @@ We provide the following two options to test and run the EKT Lab Jupyter Noteboo
 Please click on the "launch binder" badge (on the left corner) to run and test the Jupyter Notebooks.
 It may need several minutes to start up binder.  
 
-### Option 2: Use CSDMS JupyterHub
-1.  [Create a free account](https://csdms.rc.colorado.edu/hub/signup) on the CSDMS JupyterHub.
-2.  Provide a username and password - it can be whatever you like
-3.  Wait for authorization - please contact us via the [CSDMS Help Desk](https://github.com/csdms/help-desk) to provide your username for authorization 
-4.  [Run Jupyter Notebooks](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fekt_lab&urlpath=tree%2Fekt_lab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
+### Option 2: Use the CSDMS JupyterHub
+1.  [Create a free account](https://csdms.rc.colorado.edu/hub/signup) on the CSDMS JupyterHub, providing a username and password -- they can be whatever you like
+1.  [Request authorization](https://github.com/csdms/help-desk/issues/new?assignees=mdpiper&labels=jupyterhub&template=new-csdms-jupyterhub-account.md&title=CSDMS+JupyterHub+account) for your new account through the CSDMS Help Desk -- if you don't already have a GitHub account, you'll be asked to make one
+1.  Once approved, [run Jupyter Notebooks](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fekt_lab&urlpath=tree%2Fekt_lab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
 
